@@ -18,6 +18,7 @@ Este proyecto es una calculadora muy básica creada para realizar operaciones ar
 - [Lenguaje de programación utilizado] (JavaScript)
 - [Entorno de desarrollo] (Visual Studio Code)
 
+
 ## Instalación
 
 1. Clona este repositorio:
