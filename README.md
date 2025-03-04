@@ -16,7 +16,7 @@ Este proyecto es una calculadora muy básica creada para realizar operaciones ar
 ## Requisitos
 
 - [Lenguaje de programación utilizado] (JavaScript)
-- [Entorno de desarrollo] (por ejemplo, Node.js para JavaScript, Python 3)
+- [Entorno de desarrollo] (Visual Studio Code)
 
 ## Instalación
 
