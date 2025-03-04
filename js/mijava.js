@@ -22,6 +22,7 @@ function inputDecimal(dot) {
     if (!calculator.displayValue.includes(dot)) {
         calculator.displayValue += dot;
         
+        
     }
 }
 
