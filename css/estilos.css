@@ -1,4 +1,4 @@
- main
+ /*main*/
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -7,7 +7,7 @@ body {
 
 }
 
-}
+
 
 header {
     background-color: #0c5674;
@@ -39,5 +39,53 @@ footer {
     background-color: #e0e0e0;
     padding: 10px;
     margin-top: 20px;
+}
+
+/*William*/
+.calculator {
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    background-color: #fff;
+}
+
+.calculator-screen {
+    width: 100%;
+    height: 60px;
+    border: none;
+    background-color: #252525;
+    color: #fff;
+    text-align: right;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+button {
+    
+    width: calc(25% - 10px);
+    height: 60px;
+    margin: 5px;
+    font-size: 1.5rem;
+    background-color: #eaeaea;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button.operator {
+    background-color: #f9a825;
+}
+
+button.equal-sign {
+    background-color: #4caf50;
+    color: #fff;
+}
+
+button.all-clear {
+    background-color: #d32f2f;
+    color: #fff;
+    
 }
 
