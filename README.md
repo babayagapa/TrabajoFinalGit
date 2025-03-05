@@ -19,6 +19,10 @@ Con su apariencia y lógica correspondiente
 Comandos usados
 Git clone, git init, git add ., git commit -m, git log, git branch (-r), git chekout (-b), git push, git merge, git pull origin, git fetch, git status
 
+## Conflictos
+
+He tenido varios conflictos, y estuve probando cambiando el código, ir actualizando y probando desde git y no había manera, después de uans horas vi que la mejor solución era crear otra rama y realizarlo ahí ya que el problema, yo creo que radicaba en había conflicto entre mi compañero y yo, y la solución más rápida y limpia era crear otra rama que, al realizarlo y subirlo con sus correspondientes comandos, no dió ningún problema, no como al principio.
+
 ## Características
 
 - Suma
@@ -36,3 +40,5 @@ Git clone, git init, git add ., git commit -m, git log, git branch (-r), git che
 
 1. Clona este repositorio:
    git clone https://github.com/babayagapa/TrabajoFinalGit.git
+
+   
