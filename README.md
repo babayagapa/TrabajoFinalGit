@@ -17,7 +17,7 @@ He creado es una calculadora muy básica creada para realizar operaciones aritm�
 Con su apariencia y lógica correspondiente
 
 Comandos usados
-Git clone, git init, git add ., git commit -m, git log, git branch, git chekout, git push, git merge
+Git clone, git init, git add ., git commit -m, git log, git branch (-r), git chekout (-b), git push, git merge, git pull origin, git fetch, git status
 
 ## Características
 
@@ -36,9 +36,3 @@ Git clone, git init, git add ., git commit -m, git log, git branch, git chekout,
 
 1. Clona este repositorio:
    git clone https://github.com/babayagapa/TrabajoFinalGit.git
-
-Cada estudiante debe agregar en un archivo README.md:  
-▪ Nombre completo. 
-▪ Descripción detallada de las tareas realizadas. 
-▪ Comandos de Git utilizados. 
-▪ Problemas encontrados y cómo se resolvieron. 
