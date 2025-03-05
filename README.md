@@ -11,12 +11,14 @@ git push origin
 git pull origin main
 git merge main
 
-# Calculadora Básica - William Fernando Herrera Aima
+# William Fernando Herrera Aima
+
+## Calculadora básica
 
 He creado es una calculadora muy básica creada para realizar operaciones aritméticas simples. A continuación se describen los pasos para crear y utilizar esta calculadora.
 Con su apariencia y lógica correspondiente
 
-Comandos usados
+## Comandos usados
 Git clone, git init, git add ., git commit -m, git log, git branch (-r), git chekout (-b), git push, git merge, git pull origin, git fetch, git status
 
 ## Conflictos
