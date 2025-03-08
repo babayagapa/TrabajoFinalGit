@@ -45,12 +45,14 @@ footer {
 .calculator {
     border-radius: 5px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-    padding: 20px;
+    padding: 10px;
     background-color: #fff;
+    width: 50%;
+    margin: 0 auto;
 }
 
 .calculator-screen {
-    width: 100%;
+    width: 80%;
     height: 60px;
     border: none;
     background-color: #252525;
