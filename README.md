@@ -19,7 +19,30 @@ He creado es una calculadora muy básica creada para realizar operaciones aritm�
 Con su apariencia y lógica correspondiente
 
 ## Comandos usados
-Git clone, git init, git add ., git commit -m, git log, git branch (-r), git chekout (-b), git push, git merge, git pull origin, git fetch, git status
+- Git clone 
+![git clone](img-README/git-clone.png)
+- Git init
+![git init](img-README/git-init.png)
+- Git add .
+![git add](img-README/git-add-archivo.png)
+- Git commit -m
+![git commit](img-README/git-commit.png)
+- Git log
+![git log](img-README/git-log.png)
+- Git branch
+![git branch](img-README/git-branch.png)
+- Git chekout (-b)
+![git chekout](img-README/git-checkout.png)
+- Git push
+![git push](img-README/git-push.png)
+- Git merge
+![git merge](img-README/git-clone.png)
+- Git pull origin
+![git pull](img-README/git-clone.png)
+- Git status
+![git status](img-README/git-status.png)
+- Git remote
+![git remote](img-README/git-remote.png)
 
 ## Conflictos
 
@@ -35,12 +58,19 @@ He tenido varios conflictos, y estuve probando cambiando el código, ir actualiz
 ## Requisitos
 
 - [Lenguaje de programación utilizado] (JavaScript)
-- [Entorno de desarrollo] (Visual Studio Code)
+![Js](img-README/js.png)
 
+- [Entorno de desarrollo] (Visual Studio Code)
+![VSC](img-README/visual.png)
+
+## Apariencia
+![Apariencia de calculadora](img-README/calculator.png)
 
 ## Instalación
 
 1. Clona este repositorio:
-   git clone https://github.com/babayagapa/TrabajoFinalGit.git
+   - Para clonar el repositorio visita [GitHub](https://github.com/babayagapa/TrabajoFinalGit)
+   - git clone https://github.com/babayagapa/TrabajoFinalGit.git
+   - Clickas en el index.html y puedes calcular tus operaciones
 
    
