@@ -35,7 +35,7 @@ function handleOperator(nextOperator) {
         return;
     }
 
-    if (firstOperand == null) {
+    if (firstOperand == null && !isNaN(inputValue)) {
         calculator.firstOperand = inputValue;
     } else if (operator) {
         const currentValue = firstOperand || 0;
@@ -54,7 +54,7 @@ const performCalculation = {
     '*': (firstOperand, secondOperand) => firstOperand * secondOperand,
     '+': (firstOperand, secondOperand) => firstOperand + secondOperand,
     '-': (firstOperand, secondOperand) => firstOperand - secondOperand,
-    '=': (firstOperand, secondOperand) => secondOperand,
+    '=': (_firstOperand, secondOperand) => secondOperand,
 };
 
 function resetCalculator() {
@@ -97,5 +97,6 @@ keys.addEventListener('click', (event) => {
     inputDigit(target.value);
     updateDisplay();
 });
+
 
 updateDisplay();
